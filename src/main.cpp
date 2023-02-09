@@ -7,7 +7,7 @@ int main() {
         return 1;
     }
     else {
-        std::cout << "íœ‚É¬Œ÷" << std::endl;
+        std::cout << "å‰Šé™¤ã«æˆåŠŸ" << std::endl;
         std::cin.get();
     }
     return 0;
